@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Playfair+Display:wght@700&display=swap');
+
+body {
+  margin: 0;
+  background-color: #f4ecd8;
+  background-image: url('https://www.transparenttextures.com/patterns/aged-paper.png');
+  color: #2c2421;
+  font-family: 'Courier Prime', monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  text-transform: uppercase;
+  border-bottom: 2px solid #2c2421;
+}

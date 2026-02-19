@@ -1,0 +1,25 @@
+.search-container {
+    text-align: center;
+}
+
+/* MUI Input Styling */
+.retro-input .MuiOutlinedInput-root {
+    border-radius: 0px;
+}
+
+.retro-input .MuiOutlinedInput-notchedOutline {
+    border: 2px solid #2c2421 !important;
+}
+
+.retro-btn {
+    background-color: #2c2421 !important;
+    color: #f4ecd8 !important;
+    border-radius: 0px !important;
+    font-family: 'Courier Prime', monospace !important;
+    box-shadow: 4px 4px 0px #8b4513 !important;
+}
+
+.retro-btn:hover {
+    background-color: #5d4037 !important;
+    transform: translate(-2px, -2px);
+}

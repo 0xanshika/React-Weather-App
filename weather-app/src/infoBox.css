@@ -1,0 +1,9 @@
+.Card { display: flex; justify-content: center; margin-top: 20px; }
+.vintage-card {
+    background-color: #fdfbf7 !important;
+    border: 3px double #5d4037 !important;
+    border-radius: 0px !important;
+    box-shadow: 8px 8px 0px rgba(0,0,0,0.1) !important;
+}
+.sepia-img { filter: sepia(0.8) contrast(1.2); }
+.city-title { font-family: 'Playfair Display', serif !important; font-weight: bold !important; }
